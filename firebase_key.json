@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dvla-spintex-dashboard",
+  "private_key_id": "be7e9fb9e53a7809adb7fae5f72f53bc6f07739c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIr/Rnvre9h4mZ\n3qhbyZQnmuAgEOQ75iTklCPX9vQamRuPxXevHP6F7fOcCtbGUnFHOELUbdxo5Yaq\nto+kr6yXwb/Gr1fw7pwzuXw1rqimEmml0qxMYhJ3Lmqh8l0vjILxdEdjPxEg37Gh\n6X3JoRWuHpUMiNPTbVBp3tMGIVfbMQ3i7yiuiu7KKo14eVWKQGgZ35B2YK5LMII5\n6ClF5l2mxDq7vbUeV4vyx9pT6uAEBY1VkS812A0XZ9UYcMhZ8rePoiRT8DSK5qaa\nVAx9CQNg7CIx6j+JhCd3kkuPWknE5N7ccsOaKBrbkjI3lDkKwk9ZSDJv8INl0Hon\n4QHOLwm9AgMBAAECggEABbYEJYOm5OzbfJZ6ggotficJI8B3TkERYbPZhUbQ0YTz\n5NaAvmn70EHiQdmJHSGxeY5fUH5D3HRTrb3+PniFV9g6pePNg9y2cz5fC4QJ5pf1\ni7OAFbhgwCWBAVTNVBISk950PZ3I1f+npWzomHlODaNvKGkoZgbhV/HwXWdLgcBJ\nsIgP9CaSrgsW2WRs7hG+tYLWCgbLyQKq6AFM5O5MvIn4XrEvf3QFbbRDCs1wbiBP\n/gMSRRi+E6EOWQb/bqBPqE4MduHEpJI5LwxHZLsml4+usjdLYjBz9JUO7Y4r/K4J\n/2Ubt0RTqvYzNRvNuleTWEfS3SEBP6D7d/2fVhE1oQKBgQDxrq7w/xHvsHwnkYny\ncOrF4MU53mzccxlE8bRPJtcRDqH55qEF76GkqsB3cvLJvCBXcH/2J+AFShcbPtw9\nApmbzkqx2X+LgOyTLK4QA6Nt6P11HNDIGFn+kJB4JkXhF9LhMYE06n9A/5WDWALk\ngnNb4kTaCcTMUNGAydkkp1xZFQKBgQDUk4wPBpBa2KYtSFsYohhxmJCV5EtrvsWT\n8QK5jsRl341VMbChXkU5ioH/w6pc5Rl+DUb+AeNHlFT8ABq6ECR/MCe14pe1e8nK\nxxT5LbBZYsF6/pbYSPfmmSz+kJk1Fam2pFceWgAGBOkH6owi9arTFwqZvnNQ3ptx\nem6he9pICQKBgQDiTuiR0sdA4snfY3EBDKtKz8bfAWB+rWikHpDw7TXGSyVxlHyD\nynhacWn4cDLYpMjEGBw6q+wiB9bLNHmWx7B/LRTUpQ3B29+rkNMNO9r1OI7d8zWt\nqN/ceBJP78bPmDdnl6udmVe/zZR7gRZ0U5MiHybJ5QvbJnKHXntuzyiyYQKBgQCa\njSunQP5zDlDDW3ff0Po0nNeCIxkynODJTtDMWCAycPYwmo/wwrlRvIIHkhqqr2Z5\nXu3ef0DfKdkf3nOQE2x1jG1SsAvcxsNPyq5U/ALa+hHxemfxmBukbHlqG3dIQRfC\n0nkEeCrMNYW3W6/HOxWXo4jxfqYYhcA+IOWOQp3RAQKBgGcZRmRbHFtD+SQCmUtV\n9PjoRoplV7yM9WzH30VQiZWgali/g2Sue+/nvWzBaxjC5I3TngfH+Z6S2I17l/rX\nfkB3C6Pygay0JCrclrArqfDOrVX1CH3NN6Y+sa/VZGkLxmi2nHMWCP2xLQjabPb5\njNCFYETtMkhU2fQ/5rxE6b6i\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@dvla-spintex-dashboard.iam.gserviceaccount.com",
+  "client_id": "115890868696473206901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40dvla-spintex-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
